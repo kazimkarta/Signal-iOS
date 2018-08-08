@@ -4,7 +4,6 @@
 
 #import "AppDelegate.h"
 #import "AppStoreRating.h"
-#import "AppUpdateNag.h"
 #import "CodeVerificationViewController.h"
 #import "DebugLogger.h"
 #import "HomeViewController.h"
